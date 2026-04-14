@@ -569,4 +569,20 @@ textarea.form-control {
 padding-bottom: 20px;
 }
 
+.messenger-btn .btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: #0084FF;
+  border: none;
+  padding: 10px 16px;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.messenger-btn .btn:hover {
+  background-color: #006fd6;
+}
 
